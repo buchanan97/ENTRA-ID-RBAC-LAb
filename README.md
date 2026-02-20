@@ -1,2 +1,2 @@
-# ENTRA-ID-RBAC-LAb
+# ENTRA-ID-RBAC-LAB
 Using microsoftgraph
